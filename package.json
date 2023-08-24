@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "scripts": {
+    "download": "tsx src/download.ts",
+    "transfer": "tsx src/transfer.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "drizzle-orm": "^0.28.3",
+    "magic-regexp": "^0.7.0",
+    "valibot": "^0.13.1",
+    "zx": "^7.2.3"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.4",
+    "@types/node": "18.17.1",
+    "better-sqlite3": "^8.5.1",
+    "tsx": "^3.12.7"
+  }
+}
