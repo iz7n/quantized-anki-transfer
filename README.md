@@ -41,7 +41,7 @@ All you need to do is run the command: `pnpm run download`
 
 ## Transfer progress to Anki
 
-Need the old v2.2 deck? Here is a [magnet link](magnet:?xt=urn:btih:a287a6ba24f3fbf3f387d36107e1a8c8de1d8151&dn=Anki%20Deck%20Refold%20JP1K%20V2.2&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce) to it
+Need the old v2.2 deck? Here is a magnet link to it: magnet:?xt=urn:btih:a287a6ba24f3fbf3f387d36107e1a8c8de1d8151&dn=Anki%20Deck%20Refold%20JP1K%20V2.2&tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce
 
 1. Edit the `.env` file to make sure that the `COLLECTION_PATH` is set to the correct collection
 2. Run `pnpm run transfer`
